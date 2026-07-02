@@ -7,7 +7,7 @@ update: stable
 sources: []
 neighbors: []
 version: 0.1.0
-license: Apache-2.0
+license: All rights reserved — Marina Makeewa. See LICENSE.
 ---
 
 # discovery-delivery

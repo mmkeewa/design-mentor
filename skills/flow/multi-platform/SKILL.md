@@ -9,7 +9,7 @@ neighbors:
   - platform-guidelines: сами гайды как источник
   -  design-systems: реализация в компонентах
 version: 0.1.0
-license: Apache-2.0
+license: All rights reserved — Marina Makeewa. See LICENSE.
 ---
 
 # multi-platform

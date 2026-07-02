@@ -1,0 +1,36 @@
+Copyright © 2026 Marina Makeewa (@mmkeewa). All rights reserved.
+
+This repository and its entire contents — including but not limited to
+`AGENT.md`, every `SKILL.md` file, code, scripts, documentation, and any
+derivative artifacts — are the proprietary work of Marina Makeewa.
+
+Public visibility of this repository DOES NOT constitute a license to use,
+copy, modify, distribute, or incorporate this work.
+
+Without prior explicit written permission from the author, you may NOT:
+
+- copy or redistribute this repository (in whole or in part), including
+  reposting on other platforms;
+- modify or create derivative works from this repository;
+- sublicense or relicense any part of this work;
+- incorporate this work (in whole or in part) into another product,
+  service, agent, plugin, dataset, or training corpus;
+- use this work commercially, including as part of consulting engagements,
+  educational products, courses, or paid services;
+- use this work to train, fine-tune, or evaluate machine learning models.
+
+The following is permitted without additional permission:
+
+- reading and personal, non-commercial reference for the purpose of your own
+  learning;
+- linking to this repository from your own writing with attribution;
+- installing and using the agent locally via the provided `install.sh` for
+  your personal work as a designer.
+
+For licensing inquiries, permissions, or partnerships:
+
+  https://mmkeewa.ru
+  https://github.com/mmkeewa
+
+Trademarks and brand names referenced within (Apple HIG, Material 3, Figma,
+Amvera, etc.) belong to their respective owners and are used descriptively.

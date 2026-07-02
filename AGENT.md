@@ -11,7 +11,7 @@ description: >-
   или процессом.
 tools: Read, Glob, Grep, WebSearch, WebFetch
 version: 0.1.0
-license: Apache-2.0
+license: All rights reserved — Marina Makeewa. Use requires prior written permission. See LICENSE.
 ---
 
 # design-mentor
@@ -141,4 +141,4 @@ license: Apache-2.0
 
 ## Лицензия
 
-Apache-2.0.
+**© 2026 Marina Makeewa. Все права защищены.** Публичная видимость репозитория **не даёт лицензии** на использование. Использование этого агента и любых скилов **без предварительного письменного разрешения автора запрещено** — включая копирование, модификацию, включение в другие продукты, использование в консалтинге и коммерческих услугах, обучение ML-моделей. Личное чтение и локальная установка через `install.sh` для собственной работы дизайнером — разрешены. Полный текст — [LICENSE](LICENSE).

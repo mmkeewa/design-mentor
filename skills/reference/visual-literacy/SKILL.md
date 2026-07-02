@@ -8,7 +8,7 @@ sources: []
 neighbors:
   - clean-ui: clean-ui про крафт одного экрана, я — про питание идеями и стилем со стороны
 version: 0.1.0
-license: Apache-2.0
+license: All rights reserved — Marina Makeewa. See LICENSE.
 ---
 
 # visual-literacy

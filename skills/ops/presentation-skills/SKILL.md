@@ -9,7 +9,7 @@ neighbors:
   - stakeholder-work: кому и зачем
   -  product-strategy: какая ставка защищается
 version: 0.1.0
-license: Apache-2.0
+license: All rights reserved — Marina Makeewa. See LICENSE.
 ---
 
 # presentation-skills

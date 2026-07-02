@@ -9,7 +9,7 @@ neighbors:
   - clean-ui: как рисовать сам экран
   -  discovery-delivery: когда фазу запускать
 version: 0.1.0
-license: Apache-2.0
+license: All rights reserved — Marina Makeewa. See LICENSE.
 ---
 
 # user-flows-journeys

@@ -9,7 +9,7 @@ neighbors:
   - design-systems: компоненты с текстом
   -  fintech-ux: юридический язык в деньгах
 version: 0.1.0
-license: Apache-2.0
+license: All rights reserved — Marina Makeewa. See LICENSE.
 ---
 
 # editorial-policy

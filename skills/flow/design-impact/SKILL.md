@@ -9,7 +9,7 @@ neighbors:
   - product-metrics: мониторинг
   -  ux-research: поиск причин
 version: 0.1.0
-license: Apache-2.0
+license: All rights reserved — Marina Makeewa. See LICENSE.
 ---
 
 # design-impact

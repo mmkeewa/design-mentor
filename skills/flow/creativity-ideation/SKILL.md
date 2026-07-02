@@ -9,7 +9,7 @@ neighbors:
   - visual-literacy: питание насмотренностью
   -  product-strategy: какие ставки
 version: 0.1.0
-license: Apache-2.0
+license: All rights reserved — Marina Makeewa. See LICENSE.
 ---
 
 # creativity-ideation
