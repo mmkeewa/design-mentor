@@ -71,6 +71,16 @@ cd ~/design-mentor && ./install.sh
 - [ ] v0.7.0 — ops (5 скилов)
 - [ ] v1.0.0 — вылизать, добавить примеры сессий, опубликовать в Claude Skills index
 
+## Свежесть living-скилов
+
+Часть скилов помечена как `update: living` — их источники (Apple HIG, Material 3, WCAG, ссылки на индустриальные блоги) обновляются часто. Раз в неделю GitHub Actions прогоняет [scripts/check-freshness.mjs](scripts/check-freshness.mjs): читает `sources:` из frontmatter каждого living-скила, дёргает URL'ы, сравнивает `Last-Modified` / `ETag` / хэш содержимого с прошлым запуском. Если что-то изменилось — обновляет [STATUS.md](STATUS.md) и коммитит его в main.
+
+Дашборд смотри в [STATUS.md](STATUS.md). Запустить проверку вручную можно кнопкой в GitHub Actions (`Run workflow` → `Freshness check`) или локально:
+
+```bash
+node scripts/check-freshness.mjs
+```
+
 ## Лицензия
 
 **Proprietary — All rights reserved.** © 2026 Marina Makeewa. Полный текст [LICENSE](LICENSE). По вопросам разрешений — [mmkeewa.ru](https://mmkeewa.ru).

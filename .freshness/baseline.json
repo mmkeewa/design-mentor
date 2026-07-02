@@ -1,0 +1,576 @@
+{
+  "generated_at": "2026-07-02T21:20:48.184Z",
+  "skills": {
+    "ecom-ux": {
+      "path": "skills/domain/ecom-ux/SKILL.md",
+      "sources": {
+        "https://baymard.com/": {
+          "url": "https://baymard.com/",
+          "status": 200,
+          "last_modified": null,
+          "etag": "W/\"906bb295098deb396f80361c45702d57\"",
+          "hash": "d901f564ae533a0a",
+          "error": null,
+          "checked_at": "2026-07-02T21:20:48.184Z"
+        },
+        "https://growth.design/case-studies": {
+          "url": "https://growth.design/case-studies",
+          "status": 200,
+          "last_modified": null,
+          "etag": null,
+          "hash": "e937da96a5aa240c",
+          "error": null,
+          "checked_at": "2026-07-02T21:20:48.184Z"
+        },
+        "https://www.nngroup.com/topic/e-commerce/": {
+          "url": "https://www.nngroup.com/topic/e-commerce/",
+          "status": 200,
+          "last_modified": null,
+          "etag": null,
+          "hash": "5819ce4a1336ad69",
+          "error": null,
+          "checked_at": "2026-07-02T21:20:48.184Z"
+        },
+        "https://polaris.shopify.com/": {
+          "url": "https://polaris.shopify.com/",
+          "status": 200,
+          "last_modified": null,
+          "etag": "\"z91u2p9ri70w\"",
+          "hash": "f00f9c8d5ef98be0",
+          "error": null,
+          "checked_at": "2026-07-02T21:20:48.184Z"
+        },
+        "https://cxl.com/": {
+          "url": "https://cxl.com/",
+          "status": 403,
+          "last_modified": null,
+          "etag": null,
+          "hash": "98c42649ada46dff",
+          "error": null,
+          "checked_at": "2026-07-02T21:20:48.184Z"
+        },
+        "https://baymard.com/blog": {
+          "url": "https://baymard.com/blog",
+          "status": 200,
+          "last_modified": null,
+          "etag": "W/\"1tcm0pk9sv5978\"",
+          "hash": "d51ed7e6e9e93927",
+          "error": null,
+          "checked_at": "2026-07-02T21:20:48.184Z"
+        }
+      },
+      "changes": [],
+      "status": "up-to-date"
+    },
+    "edtech-ux": {
+      "path": "skills/domain/edtech-ux/SKILL.md",
+      "sources": {
+        "https://barbaraoakley.com/": {
+          "url": "https://barbaraoakley.com/",
+          "status": 200,
+          "last_modified": null,
+          "etag": null,
+          "hash": "5794333606de7b26",
+          "error": null,
+          "checked_at": "2026-07-02T21:20:48.184Z"
+        },
+        "https://visible-learning.org/": {
+          "url": "https://visible-learning.org/",
+          "status": 200,
+          "last_modified": null,
+          "etag": null,
+          "hash": "c8d27306ce2e4ba6",
+          "error": null,
+          "checked_at": "2026-07-02T21:20:48.184Z"
+        },
+        "https://www.edsurge.com/": {
+          "url": "https://www.edsurge.com/",
+          "status": 200,
+          "last_modified": null,
+          "etag": "\"11roneh6mfo6f1j\"",
+          "hash": "904cb860adc197c8",
+          "error": null,
+          "checked_at": "2026-07-02T21:20:48.184Z"
+        },
+        "https://blog.duolingo.com/tag/design/": {
+          "url": "https://blog.duolingo.com/tag/design/",
+          "status": 200,
+          "last_modified": null,
+          "etag": "W/\"14ee3-cVEJfh5rxIXzIO0Y+wSvT9WXTAI\"",
+          "hash": "7702fe920c4c05e9",
+          "error": null,
+          "checked_at": "2026-07-02T21:20:48.184Z"
+        },
+        "https://blog.khanacademy.org/tag/design/": {
+          "url": "https://blog.khanacademy.org/tag/design/",
+          "status": 200,
+          "last_modified": null,
+          "etag": null,
+          "hash": "232e40d2fa01b1e1",
+          "error": null,
+          "checked_at": "2026-07-02T21:20:48.184Z"
+        },
+        "https://www.ftc.gov/legal-library/browse/rules/childrens-online-privacy-protection-rule-coppa": {
+          "url": "https://www.ftc.gov/legal-library/browse/rules/childrens-online-privacy-protection-rule-coppa",
+          "status": 403,
+          "last_modified": null,
+          "etag": null,
+          "hash": null,
+          "error": null,
+          "checked_at": "2026-07-02T21:20:48.184Z"
+        },
+        "https://gdpr.eu/": {
+          "url": "https://gdpr.eu/",
+          "status": 200,
+          "last_modified": null,
+          "etag": "\"61597-1782829836;;;\"",
+          "hash": "8b01d37a28f71bc2",
+          "error": null,
+          "checked_at": "2026-07-02T21:20:48.184Z"
+        },
+        "https://www.nngroup.com/topic/children/": {
+          "url": "https://www.nngroup.com/topic/children/",
+          "status": 404,
+          "last_modified": null,
+          "etag": null,
+          "hash": null,
+          "error": null,
+          "checked_at": "2026-07-02T21:20:48.184Z"
+        }
+      },
+      "changes": [],
+      "status": "up-to-date"
+    },
+    "fintech-ux": {
+      "path": "skills/domain/fintech-ux/SKILL.md",
+      "sources": {
+        "https://growth.design/case-studies": {
+          "url": "https://growth.design/case-studies",
+          "status": 200,
+          "last_modified": null,
+          "etag": null,
+          "hash": "e937da96a5aa240c",
+          "error": null,
+          "checked_at": "2026-07-02T21:20:48.184Z"
+        },
+        "https://a16z.com/tag/fintech/": {
+          "url": "https://a16z.com/tag/fintech/",
+          "status": 200,
+          "last_modified": null,
+          "etag": "\"e317059d866cc06ba53d6dbe1887835d-ssl-df\"",
+          "hash": "011a3f897ed476c3",
+          "error": null,
+          "checked_at": "2026-07-02T21:20:48.184Z"
+        },
+        "https://www.nngroup.com/topic/finance-and-banking/": {
+          "url": "https://www.nngroup.com/topic/finance-and-banking/",
+          "status": 404,
+          "last_modified": null,
+          "etag": null,
+          "hash": null,
+          "error": null,
+          "checked_at": "2026-07-02T21:20:48.184Z"
+        },
+        "https://baymard.com/": {
+          "url": "https://baymard.com/",
+          "status": 200,
+          "last_modified": null,
+          "etag": "W/\"906bb295098deb396f80361c45702d57\"",
+          "hash": "5a1ade735cf4ff2d",
+          "error": null,
+          "checked_at": "2026-07-02T21:20:48.184Z"
+        },
+        "https://www.consumerfinance.gov/": {
+          "url": "https://www.consumerfinance.gov/",
+          "status": 200,
+          "last_modified": null,
+          "etag": "\"6dd43161a0b9d51415e15f1725297d74\"",
+          "hash": "86692225d03234d9",
+          "error": null,
+          "checked_at": "2026-07-02T21:20:48.184Z"
+        },
+        "https://moneyonthemove.substack.com/": {
+          "url": "https://moneyonthemove.substack.com/",
+          "status": 404,
+          "last_modified": null,
+          "etag": null,
+          "hash": null,
+          "error": null,
+          "checked_at": "2026-07-02T21:20:48.184Z"
+        }
+      },
+      "changes": [],
+      "status": "up-to-date"
+    },
+    "accessibility": {
+      "path": "skills/flow/accessibility/SKILL.md",
+      "sources": {
+        "https://www.w3.org/TR/WCAG22/": {
+          "url": "https://www.w3.org/TR/WCAG22/",
+          "status": 200,
+          "last_modified": "Thu, 12 Dec 2024 10:36:22 GMT",
+          "etag": null,
+          "hash": "227de75cc6b700fa",
+          "error": null,
+          "checked_at": "2026-07-02T21:20:48.184Z"
+        },
+        "https://web.dev/learn/accessibility/": {
+          "url": "https://web.dev/learn/accessibility/",
+          "status": 200,
+          "last_modified": "Wed, 01 Jul 2026 17:01:27 GMT",
+          "etag": null,
+          "hash": "7e49575e36695751",
+          "error": null,
+          "checked_at": "2026-07-02T21:20:48.184Z"
+        },
+        "https://www.nngroup.com/topic/accessibility/": {
+          "url": "https://www.nngroup.com/topic/accessibility/",
+          "status": 200,
+          "last_modified": null,
+          "etag": null,
+          "hash": "a0e55f3b6945ee3c",
+          "error": null,
+          "checked_at": "2026-07-02T21:20:48.184Z"
+        },
+        "https://dequeuniversity.com/": {
+          "url": "https://dequeuniversity.com/",
+          "status": 200,
+          "last_modified": null,
+          "etag": null,
+          "hash": "ba64ef27909c40df",
+          "error": null,
+          "checked_at": "2026-07-02T21:20:48.184Z"
+        },
+        "https://www.sarasoueidan.com/blog/": {
+          "url": "https://www.sarasoueidan.com/blog/",
+          "status": 200,
+          "last_modified": null,
+          "etag": "\"4beb6af1305e2bd3ede02d93a5da4f7c-ssl-df\"",
+          "hash": "47c67977b8ec7548",
+          "error": null,
+          "checked_at": "2026-07-02T21:20:48.184Z"
+        },
+        "https://www.a11yproject.com/": {
+          "url": "https://www.a11yproject.com/",
+          "status": 200,
+          "last_modified": null,
+          "etag": "\"1f02b238af33c10edb4288de551b2ce7-ssl-df\"",
+          "hash": "37b3528c05a85aed",
+          "error": null,
+          "checked_at": "2026-07-02T21:20:48.184Z"
+        },
+        "https://design-system.service.gov.uk/accessibility/": {
+          "url": "https://design-system.service.gov.uk/accessibility/",
+          "status": 200,
+          "last_modified": null,
+          "etag": "\"420c78e19e92f32ad0f9545b52c18ddf-ssl-df\"",
+          "hash": "99aec0a02a0f17c5",
+          "error": null,
+          "checked_at": "2026-07-02T21:20:48.184Z"
+        },
+        "https://inclusive.microsoft.design/": {
+          "url": "https://inclusive.microsoft.design/",
+          "status": 200,
+          "last_modified": null,
+          "etag": "\"12u3tfmavdja8o0\"",
+          "hash": "e346853fade09d09",
+          "error": null,
+          "checked_at": "2026-07-02T21:20:48.184Z"
+        }
+      },
+      "changes": [],
+      "status": "up-to-date"
+    },
+    "ai-in-design": {
+      "path": "skills/flow/ai-in-design/SKILL.md",
+      "sources": {
+        "https://pair.withgoogle.com/guidebook/": {
+          "url": "https://pair.withgoogle.com/guidebook/",
+          "status": 200,
+          "last_modified": null,
+          "etag": null,
+          "hash": "8c2269de56ce0f7f",
+          "error": null,
+          "checked_at": "2026-07-02T21:20:48.184Z"
+        },
+        "https://www.microsoft.com/en-us/haxtoolkit/": {
+          "url": "https://www.microsoft.com/en-us/haxtoolkit/",
+          "status": 200,
+          "last_modified": "Thu, 02 Jul 2026 03:54:11 GMT",
+          "etag": null,
+          "hash": "a7ba59c383cf16fd",
+          "error": null,
+          "checked_at": "2026-07-02T21:20:48.184Z"
+        },
+        "https://developer.apple.com/design/human-interface-guidelines/machine-learning": {
+          "url": "https://developer.apple.com/design/human-interface-guidelines/machine-learning",
+          "status": 200,
+          "last_modified": null,
+          "etag": null,
+          "hash": "b642b1eabefc9b7a",
+          "error": null,
+          "checked_at": "2026-07-02T21:20:48.184Z"
+        },
+        "https://uxdesign.cc/": {
+          "url": "https://uxdesign.cc/",
+          "status": 200,
+          "last_modified": null,
+          "etag": null,
+          "hash": "7532f94a71aefeef",
+          "error": null,
+          "checked_at": "2026-07-02T21:20:48.184Z"
+        },
+        "https://docs.anthropic.com/claude/docs/intro-to-prompting": {
+          "url": "https://docs.anthropic.com/claude/docs/intro-to-prompting",
+          "status": 200,
+          "last_modified": null,
+          "etag": null,
+          "hash": "5ba3da3ab1376eac",
+          "error": null,
+          "checked_at": "2026-07-02T21:20:48.184Z"
+        },
+        "https://karpathy.ai/": {
+          "url": "https://karpathy.ai/",
+          "status": 200,
+          "last_modified": "Tue, 21 Apr 2026 00:03:51 GMT",
+          "etag": "\"aa9db7bf16d0460b20342614798c9fc58a3685272f879dd587a89e5273202ab6-br\"",
+          "hash": "8716bfab050464e7",
+          "error": null,
+          "checked_at": "2026-07-02T21:20:48.184Z"
+        },
+        "https://simonwillison.net/": {
+          "url": "https://simonwillison.net/",
+          "status": 200,
+          "last_modified": "Thu, 02 Jul 2026 21:18:26 GMT",
+          "etag": null,
+          "hash": "d29661e4bc613996",
+          "error": null,
+          "checked_at": "2026-07-02T21:20:48.184Z"
+        },
+        "https://modelcontextprotocol.io/": {
+          "url": "https://modelcontextprotocol.io/",
+          "status": 200,
+          "last_modified": "Thu, 02 Jul 2026 18:50:06 GMT",
+          "etag": null,
+          "hash": "c49a71b459c50cb4",
+          "error": null,
+          "checked_at": "2026-07-02T21:20:48.184Z"
+        }
+      },
+      "changes": [],
+      "status": "up-to-date"
+    },
+    "platform-guidelines": {
+      "path": "skills/reference/platform-guidelines/SKILL.md",
+      "sources": {
+        "https://developer.apple.com/design/human-interface-guidelines/": {
+          "url": "https://developer.apple.com/design/human-interface-guidelines/",
+          "status": 200,
+          "last_modified": null,
+          "etag": null,
+          "hash": "b02b3c1f498985d2",
+          "error": null,
+          "checked_at": "2026-07-02T21:20:48.184Z"
+        },
+        "https://m3.material.io/": {
+          "url": "https://m3.material.io/",
+          "status": 200,
+          "last_modified": "Tue, 01 Jan 1980 00:00:01 GMT",
+          "etag": "W/\"315532801.0-62280-2265778700\"",
+          "hash": "379a41a31bd48aec",
+          "error": null,
+          "checked_at": "2026-07-02T21:20:48.184Z"
+        },
+        "https://fluent2.microsoft.design/": {
+          "url": "https://fluent2.microsoft.design/",
+          "status": 200,
+          "last_modified": null,
+          "etag": null,
+          "hash": "9a2f3c8d29f592a1",
+          "error": null,
+          "checked_at": "2026-07-02T21:20:48.184Z"
+        },
+        "https://www.w3.org/TR/WCAG22/": {
+          "url": "https://www.w3.org/TR/WCAG22/",
+          "status": 200,
+          "last_modified": "Thu, 12 Dec 2024 10:36:22 GMT",
+          "etag": null,
+          "hash": "227de75cc6b700fa",
+          "error": null,
+          "checked_at": "2026-07-02T21:20:48.184Z"
+        },
+        "https://web.dev/explore/progressive-web-apps": {
+          "url": "https://web.dev/explore/progressive-web-apps",
+          "status": 200,
+          "last_modified": "Wed, 27 May 2026 08:20:56 GMT",
+          "etag": null,
+          "hash": "3a8c2d71a906d5cc",
+          "error": null,
+          "checked_at": "2026-07-02T21:20:48.184Z"
+        },
+        "https://ant.design/": {
+          "url": "https://ant.design/",
+          "status": 200,
+          "last_modified": "Tue, 30 Jun 2026 01:50:57 GMT",
+          "etag": null,
+          "hash": "1912279c80440aee",
+          "error": null,
+          "checked_at": "2026-07-02T21:20:48.184Z"
+        },
+        "https://carbondesignsystem.com/": {
+          "url": "https://carbondesignsystem.com/",
+          "status": 200,
+          "last_modified": "Thu, 02 Jul 2026 14:32:16 GMT",
+          "etag": null,
+          "hash": "0cc7b7ce12c8b4fe",
+          "error": null,
+          "checked_at": "2026-07-02T21:20:48.184Z"
+        },
+        "https://polaris.shopify.com/": {
+          "url": "https://polaris.shopify.com/",
+          "status": 200,
+          "last_modified": null,
+          "etag": "\"z91u2p9ri70w\"",
+          "hash": "f00f9c8d5ef98be0",
+          "error": null,
+          "checked_at": "2026-07-02T21:20:48.184Z"
+        },
+        "https://baseweb.design/": {
+          "url": "https://baseweb.design/",
+          "status": 200,
+          "last_modified": null,
+          "etag": null,
+          "hash": "bc025b281197337d",
+          "error": null,
+          "checked_at": "2026-07-02T21:20:48.184Z"
+        },
+        "https://spectrum.adobe.com/": {
+          "url": "https://spectrum.adobe.com/",
+          "status": 200,
+          "last_modified": "Wed, 28 Feb 2024 21:04:55 GMT",
+          "etag": "W/\"bf464d5e8515e7fb8f54b84f85825628\"",
+          "hash": "27756c9fc31906bd",
+          "error": null,
+          "checked_at": "2026-07-02T21:20:48.184Z"
+        },
+        "https://atlassian.design/": {
+          "url": "https://atlassian.design/",
+          "status": 200,
+          "last_modified": "Thu, 02 Jul 2026 20:52:08 GMT",
+          "etag": "\"b216b8bdc36d9e0641e6abfe108dbca3\"",
+          "hash": "502e802b3d483424",
+          "error": null,
+          "checked_at": "2026-07-02T21:20:48.184Z"
+        }
+      },
+      "changes": [],
+      "status": "up-to-date"
+    },
+    "visual-literacy": {
+      "path": "skills/reference/visual-literacy/SKILL.md",
+      "sources": {
+        "https://mobbin.com/": {
+          "url": "https://mobbin.com/",
+          "status": 200,
+          "last_modified": "Thu, 18 Jun 2026 06:30:01 GMT",
+          "etag": "W/\"d8f551209ae6977082248641af6a45f3\"",
+          "hash": "c4403ce1c1de4578",
+          "error": null,
+          "checked_at": "2026-07-02T21:20:48.184Z"
+        },
+        "https://pageflows.com/": {
+          "url": "https://pageflows.com/",
+          "status": 200,
+          "last_modified": null,
+          "etag": null,
+          "hash": "34564a86c12507fb",
+          "error": null,
+          "checked_at": "2026-07-02T21:20:48.184Z"
+        },
+        "https://www.uisources.com/": {
+          "url": "https://www.uisources.com/",
+          "status": 200,
+          "last_modified": null,
+          "etag": null,
+          "hash": "1409aa487a0bdf91",
+          "error": null,
+          "checked_at": "2026-07-02T21:20:48.184Z"
+        },
+        "https://refero.design/": {
+          "url": "https://refero.design/",
+          "status": 200,
+          "last_modified": "Thu, 02 Jul 2026 18:22:09 GMT",
+          "etag": "W/\"b2c8eaa77c77b02b12d66a9fd9744612\"",
+          "hash": "2501a0c13d18c569",
+          "error": null,
+          "checked_at": "2026-07-02T21:20:48.184Z"
+        },
+        "https://www.awwwards.com/": {
+          "url": "https://www.awwwards.com/",
+          "status": 200,
+          "last_modified": null,
+          "etag": null,
+          "hash": "240696b115c6976c",
+          "error": null,
+          "checked_at": "2026-07-02T21:20:48.184Z"
+        },
+        "https://godly.website/": {
+          "url": "https://godly.website/",
+          "status": 200,
+          "last_modified": null,
+          "etag": null,
+          "hash": "3af6137ad5194eac",
+          "error": null,
+          "checked_at": "2026-07-02T21:20:48.184Z"
+        },
+        "https://land-book.com/": {
+          "url": "https://land-book.com/",
+          "status": 403,
+          "last_modified": null,
+          "etag": null,
+          "hash": "20deeaa74774ab90",
+          "error": null,
+          "checked_at": "2026-07-02T21:20:48.184Z"
+        },
+        "https://nicelydone.club/": {
+          "url": "https://nicelydone.club/",
+          "status": 200,
+          "last_modified": null,
+          "etag": null,
+          "hash": "1d2d74b6badae0e6",
+          "error": null,
+          "checked_at": "2026-07-02T21:20:48.184Z"
+        },
+        "https://savee.it/": {
+          "url": "https://savee.it/",
+          "status": 200,
+          "last_modified": null,
+          "etag": "\"6aiyqrev8j8hg-gzip\"",
+          "hash": "61fcddf91ad33980",
+          "error": null,
+          "checked_at": "2026-07-02T21:20:48.184Z"
+        },
+        "https://www.cosmos.so/": {
+          "url": "https://www.cosmos.so/",
+          "status": 200,
+          "last_modified": null,
+          "etag": null,
+          "hash": "85535b1086435c34",
+          "error": null,
+          "checked_at": "2026-07-02T21:20:48.184Z"
+        },
+        "https://mobbin.com/blog": {
+          "url": "https://mobbin.com/blog",
+          "status": 200,
+          "last_modified": "Thu, 18 Jun 2026 06:30:01 GMT",
+          "etag": "W/\"c9ff31d8fb58112e25be426b8837ff6f\"",
+          "hash": "c8c27d9fd180a5e2",
+          "error": null,
+          "checked_at": "2026-07-02T21:20:48.184Z"
+        }
+      },
+      "changes": [],
+      "status": "up-to-date"
+    }
+  }
+}
