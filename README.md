@@ -44,7 +44,20 @@ git clone https://github.com/mmkeewa/design-mentor.git ~/design-mentor
 cd ~/design-mentor && ./install.sh
 ```
 
-`install.sh` симлинкает `AGENT.md` → `~/.claude/agents/design-mentor.md` и каждый `SKILL.md` — плоско в `~/.claude/skills/<skill-name>/SKILL.md`. Обновления делаются `git pull`.
+`install.sh` симлинкает `AGENT.md` → `~/.claude/agents/design-mentor.md` и каждый `SKILL.md` — плоско в `~/.claude/skills/<skill-name>/SKILL.md`. Обновления делаются `git pull` — файлы в репо и есть источник истины, симлинки автоматически подхватывают свежий контент.
+
+Полезные флаги:
+
+```bash
+./install.sh --check      # что установлено, какие ссылки корректны, где чужие файлы
+./install.sh --dry-run    # показать план без изменений
+./install.sh --update     # git pull && переустановить
+./install.sh --uninstall  # чисто снять все симлинки (репо не трогает)
+./install.sh --force      # перезаписать чужие файлы с тем же именем
+./install.sh --help       # сводка
+```
+
+Скрипт **идемпотентен** (повторный запуск не ломает), а `--check` без изменений покажет статус — сколько скилов установлено, есть ли конфликты с чужими файлами в `~/.claude/skills/`.
 
 ## Установки скила
 
